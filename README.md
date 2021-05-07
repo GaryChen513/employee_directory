@@ -8,7 +8,7 @@ A web application that lists all employees in one directory using React. The use
 <br/>
 
 ## Screenshot
-![workoutTracker](./demo/Employee_directory.png)
+![demo](./demo/Employee_directory.png)
   
 
 ## Table of Contents
