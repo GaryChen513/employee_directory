@@ -26,7 +26,7 @@ Users can view the deployed project [here](https://garychen513.github.io/employe
 
 
 ## Usage
-This React-based app demonstrates an employee directory that can be searched and sorted. The directory is filled via an API call to Random User Generator and includes photo, title, name, gender, age, e-mail and mobile phone number. Entering text into the search box will dynamically search all fields and filter those who match the entered text. The directory can be sorted by name or by age, as indicated by the change in cursor.
+This React-based app demonstrates an employee directory that can be searched and sorted. The directory is filled via an API call to `Random User Generator` and includes photo, title, name, gender, age, e-mail and mobile phone number. Entering text into the search box will dynamically search all fields and filter those who match the entered text. The directory can be sorted by name or by age, as indicated by the change in cursor.
 
 
 ## License
